@@ -1,6 +1,6 @@
 ## Online Marketplace
 
-A simple online marketplace built with Python, HTML, and Django.
+An online marketplace developed using Python, HTML, and Django.
 
 Users can:
 - Create accounts
